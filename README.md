@@ -1,5 +1,9 @@
 # Francofun
 
+![Login-screen](https://github.com/JayThibs/Francofun/blob/master/Images/Login-screen.png “Login-screen”)
+
+![Home-screen](https://github.com/JayThibs/Francofun/blob/master/Images/Home-screen.png “Home-screen“)
+
 This is a work-in-progress. A bulk of the work was completed within a 24-hour Hackathon. The goal of the Hackathon was to make an app that can be helpful to francophones using government data.
 
 In 24 hours I:
