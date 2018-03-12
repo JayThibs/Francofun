@@ -1,8 +1,8 @@
 # Francofun
 
-![Login](https://github.com/JayThibs/Francofun/blob/master/Images/Login-screen.png){:height="30%" width="30%"}
+<img src="https://github.com/JayThibs/Francofun/blob/master/Images/Login-screen.png" width="201" height="348">
 
-![Home](https://github.com/JayThibs/Francofun/blob/master/Images/Home-screen.png){:height="30%" width="30%"}
+![Home](https://github.com/JayThibs/Francofun/blob/master/Images/Home-screen.png)
 
 This is a work-in-progress. A bulk of the work was completed within a 24-hour Hackathon. The goal of the Hackathon was to make an app that can be helpful to francophones using government data.
 
